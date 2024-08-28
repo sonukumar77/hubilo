@@ -1,0 +1,167 @@
+export const AVATAR_URL =
+  "https://i.pinimg.com/736x/0d/64/98/0d64989794b1a4c9d89bff571d3d5842.jpg";
+
+export const SPEAKER_LIST = [
+  {
+    id: "dd2d1ed7-6469-44b7-867d-51b7cd8d3cb7",
+    name: "Eleanor Pena",
+    designation: "President of Sales",
+    organisation: "XYZ Organisation",
+  },
+  {
+    id: "95c97879-f2ca-40bd-83fe-250b06c905c2",
+    name: "Esther Howard",
+    designation: "Marketing Coordinator",
+    organisation: "XYZ Organisation",
+  },
+  {
+    id: "90273af3-b4cc-46a3-aa98-915e3f53784a",
+    name: "Albert Flores",
+    designation: "Nursing Assistant",
+    organisation: "XYZ Organisation",
+  },
+  {
+    id: "6282c523-42d6-46c9-9d46-cb4524598e9e",
+    name: "John Doe",
+    designation: "Marketing Head",
+    organisation: "XYZ Organisation",
+  },
+  {
+    id: "a716c734-382a-48e7-82ed-c8e40dd36bfa",
+    name: "Savannah Nguyen",
+    designation: "Web Designer",
+    organisation: "XYZ Organisation",
+  },
+  {
+    id: "eba74b5b-a423-4d65-8979-1d4c9578c2e5",
+    name: "Courtney Henry",
+    designation: "Chief Executive Officer",
+    organisation: "XYZ Organisation",
+  },
+  {
+    id: "b21d87ae-b2fc-4cb9-be9b-a484960a5f14",
+    name: "Darlene Robertson",
+    designation: "Human Resources Manager",
+    organisation: "XYZ Organisation",
+  },
+  {
+    id: "bae025ae-3dba-432f-96c6-7ece107356bb",
+    name: "Jacob Jones",
+    designation: "Software Engineer",
+    organisation: "XYZ Organisation",
+  },
+  {
+    id: "71aa7dd9-24f8-4830-8a06-b977a1cfaae1",
+    name: "Kristin Watson",
+    designation: "Product Manager",
+    organisation: "XYZ Organisation",
+  },
+  {
+    id: "ae8e8b54-40b8-4b66-9ab9-7574d202f795",
+    name: "Floyd Miles",
+    designation: "Financial Analyst",
+    organisation: "XYZ Organisation",
+  },
+  {
+    id: "24ce6845-62cc-4cc3-950a-417d8a7ee2ba",
+    name: "Jane Cooper",
+    designation: "UX Designer",
+    organisation: "XYZ Organisation",
+  },
+  {
+    id: "a8104418-0e37-4cbd-b73d-1eb7d681a13f",
+    name: "Ronald Richards",
+    designation: "Operations Manager",
+    organisation: "XYZ Organisation",
+  },
+  {
+    id: "a08f0bee-ba47-4404-9724-43063b408a54",
+    name: "Wade Warren",
+    designation: "Data Scientist",
+    organisation: "XYZ Organisation",
+  },
+  {
+    id: "31c32b7f-a1b9-4458-a76d-136801af52f6",
+    name: "Theresa Webb",
+    designation: "Legal Advisor",
+    organisation: "XYZ Organisation",
+  },
+  {
+    id: "12a47636-f973-4692-8f47-3a642b1adf33",
+    name: "Benjamin Tucker",
+    designation: "Business Analyst",
+    organisation: "XYZ Organisation",
+  },
+  {
+    id: "cd989d3a-68d9-435a-826c-503e8dd2f19e",
+    name: "Carl Lawrence",
+    designation: "System Administrator",
+    organisation: "XYZ Organisation",
+  },
+  {
+    id: "e9b3ddc5-28f4-4791-9732-6583b3738e1c",
+    name: "Denise Brown",
+    designation: "Network Engineer",
+    organisation: "XYZ Organisation",
+  },
+  {
+    id: "83926a7b-74c7-44c1-b110-2542b5a2d0fc",
+    name: "Eva Moore",
+    designation: "Quality Assurance Tester",
+    organisation: "XYZ Organisation",
+  },
+  {
+    id: "7717a5aa-bd6b-433f-a6bf-5ce7a06280ba",
+    name: "Frank Ryan",
+    designation: "Accountant",
+    organisation: "XYZ Organisation",
+  },
+  {
+    id: "9d8b4d2a-ba8b-4c9c-893b-f197c302cbec",
+    name: "Grace Barnes",
+    designation: "Graphic Designer",
+    organisation: "XYZ Organisation",
+  },
+  {
+    id: "e60113e0-19bc-4d34-b8cb-2d2a98dd080e",
+    name: "Hector Murphy",
+    designation: "Digital Marketer",
+    organisation: "XYZ Organisation",
+  },
+  {
+    id: "5f0266b8-e3ea-435f-a8cf-6eb38fac2532",
+    name: "Ivy Nelson",
+    designation: "Research Scientist",
+    organisation: "XYZ Organisation",
+  },
+  {
+    id: "46f6f371-7d12-42e3-880a-abc04a2af98b",
+    name: "Jackie Torres",
+    designation: "Public Relations Officer",
+    organisation: "XYZ Organisation",
+  },
+  {
+    id: "10e46a6f-69d8-4936-b2eb-d8dd7aa87e62",
+    name: "Katherine Peterson",
+    designation: "Event Coordinator",
+    organisation: "XYZ Organisation",
+  },
+  {
+    id: "29b31bc8-b633-4b7f-88aa-284e658d5da0",
+    name: "Leroy Wheeler",
+    designation: "Technical Writer",
+    organisation: "XYZ Organisation",
+  },
+  {
+    id: "c2a06df2-7ab5-4367-9250-6020589c4e20",
+    name: "Mona Adams",
+    designation: "Sales Representative",
+    organisation: "XYZ Organisation",
+  },
+  {
+    id: "0fc355de-eabc-4bcf-a081-7a422a72170a",
+    name: "Nina Johnston",
+    designation: "HR Executive",
+    organisation: "XYZ Organisation",
+  },
+];
