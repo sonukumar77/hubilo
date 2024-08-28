@@ -55,7 +55,7 @@
 
 ## Hosted Link
 
-Visit the hosted application: [Webinar Post Manager](https://hubilo-app.netlify.app/)
+Visit the hosted application: [Hubilo-App](https://hubilo-app.netlify.app/)
 
 ## Screenshots
 
