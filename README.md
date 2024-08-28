@@ -1,4 +1,4 @@
-# App SideDrawer
+# SideDrawer App 
 
 - Welcome to the SideDrawer App! This NextJs,React application allows users to see SideDrawer Effect Open/Close in the App as well as listing,search,multi-select items etc.
 
