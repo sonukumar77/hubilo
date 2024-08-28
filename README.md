@@ -1,6 +1,6 @@
 # App SideDrawer
 
-- Welcome to the SideDrawer App! This NextJs,React application allows users to see SideDrawer Effect in the App as well as listing item,search,multi-select etc.
+- Welcome to the SideDrawer App! This NextJs,React application allows users to see SideDrawer Effect Open/Close in the App as well as listing,search,multi-select items etc.
 
 ## Table of Contents
 
@@ -16,7 +16,7 @@
 
 - Explore SideDrawer App
 - Enable Open/Close Sidebar App.
-- Milti-Select and Search Items with infinite Scrolable list.
+- Milti-Select and Search Items with infinite Scrollable list.
 
 ## Installation
 
@@ -55,23 +55,23 @@
 
 ## Hosted Link
 
-Visit the hosted application: [Webinar Post Manager](https://webinar-post.vercel.app/)
+Visit the hosted application: [Webinar Post Manager](https://hubilo-app.netlify.app/)
 
 ## Screenshots
 
-![image](https://github.com/sonukumar77/Webinar-Post/blob/main/src/assets/screenshots/list.png)
+![image](https://github.com/sonukumar77/hubilo/blob/main/public/assets/screenshots/start-button.png)
 
 ---
 
-![image](https://github.com/sonukumar77/Webinar-Post/blob/main/src/assets/screenshots/create.png)
+![image](https://github.com/sonukumar77/hubilo/blob/main/public/assets/screenshots/sidebar-ui.png)
 
 ---
 
-![image](https://github.com/sonukumar77/Webinar-Post/blob/main/src/assets/screenshots/error.png)
+![image](https://github.com/sonukumar77/hubilo/blob/main/public/assets/screenshots/searched-ui.png)
 
 ---
 
-![image](https://github.com/sonukumar77/Webinar-Post/blob/main/src/assets/screenshots/edit.png)
+![image](https://github.com/sonukumar77/hubilo/blob/main/public/assets/screenshots/selcted-ui.png)
 
 ## Project Structure
 
